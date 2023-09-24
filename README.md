@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 -->
 ![Fx_x's GitHub stats](https://github-readme-stats.vercel.app/api?username=DR0006&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DR0006/DR0006/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DR0006/DR0006/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dreamhunter2333/dreamhunter2333/output/github-snake.svg">
+</picture>
 
 
