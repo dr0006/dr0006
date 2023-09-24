@@ -31,4 +31,7 @@ Here are some ideas to get you started:
 ![Fx_x's GitHub stats](https://github-readme-stats.vercel.app/api?username=DR0006&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
+![](https://raw.githubusercontent.com/DR0006/DR0006/main/assets/github-contribution-grid-snake.svg)          
+
+
 
