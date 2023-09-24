@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 ![Fx_x's GitHub stats](https://github-readme-stats.vercel.app/api?username=DR0006&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
