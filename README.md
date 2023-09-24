@@ -1,5 +1,4 @@
 ### Hi there 😄
-
 ### This is Fx_x!
 
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
@@ -28,5 +27,4 @@ Here are some ideas to get you started:
 -->
 ![Fx_x's GitHub stats](https://github-readme-stats.vercel.app/api?username=DR0006&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DR0006&layout=compact&theme=tokyonight)
 
