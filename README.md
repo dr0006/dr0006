@@ -4,6 +4,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=sqlServer&logoColor=ffffff)](https://cloudblogs.microsoft.com/sqlserver/2022/11/16/sql-server-2022-is-now-generally-available/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
