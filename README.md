@@ -1,8 +1,6 @@
 ### Hi there 😄
 ### This is Fx_x!
 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
-
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
