@@ -1,32 +1,39 @@
-### 👋 Hi there, I'm Fx_x!
+<!-- 💫 About Me -->
+<h2 align="center">👋 Hi there, I'm <b>Fx_x</b>!</h2>
+
 
 ---
 
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-412991?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/Image%20Processing-4B8BBE?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DR0006&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DR0006&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
+### ✨ Little Fun Section
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=AI+%E2%9C%A8+ML+%E2%9C%A8+DL+%E2%9C%A8+Web;Always+learning+new+things!;Keep+coding%2C+keep+dreaming." alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://count.getloli.com/@DR0006?theme=asoul" alt="profile-views" />
