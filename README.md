@@ -2,14 +2,14 @@
 
 ### This is Fx_x!
 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+<img src="badges/javascript.svg" alt="JavaScript" height="40" />
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/DR0006)
 
-![:name](https://count.getloli.com/@DR0006?theme=booru-lisu)
+![:name](https://count.getloli.com/@DR0006?theme=booru-lewd)
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=DR0006&include_all_commits=true&theme=radical&hide_border=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DR0006&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=10&theme=dracula&hide_border=false"/>
