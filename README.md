@@ -13,4 +13,4 @@
 
 [//]: # (<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>)
 
-![:name](https://count.getloli.com/@DR0006)
+![:name](https://count.getloli.com/@DR0006?theme=booru-lisu)
