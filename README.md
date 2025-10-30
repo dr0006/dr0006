@@ -14,3 +14,5 @@
 [//]: # (<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>)
 
 ![:name](https://count.getloli.com/@DR0006?theme=booru-lisu)
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=DR0006&include_all_commits=true&theme=radical&hide_border=false"/><br>
